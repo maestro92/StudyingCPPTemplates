@@ -18,6 +18,9 @@ int main()
 //	cout << c << endl;
 //	cout << g << endl;
 
+//	float g = 10 + 2;
+//	int c = 10 + 2;
+
 	printf("%d", c);
 	printf("%f", g);
 }

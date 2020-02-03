@@ -201,3 +201,13 @@ empty spaces and comments in between
 
 
 
+#################################################################################
+################################ handmade hero ctime ############################
+#################################################################################
+
+So speaking of measuring build time, it reminded me of the ctime tool that was mentioned on the handmade hero stream 
+https://www.youtube.com/watch?v=LdMHyGxfg6U
+
+so i decided to run ctime on main.cpp as well.
+
+Essentially I wrote a build_windows.bat
